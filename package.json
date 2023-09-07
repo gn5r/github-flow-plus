@@ -2,5 +2,13 @@
   "name": "github-flow-plus",
   "version": "0.1.0-beta",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^20.5.9",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  }
 }
