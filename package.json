@@ -1,6 +1,6 @@
 {
   "name": "github-flow-plus",
-  "version": "0.1.0-beta",
+  "version": "0.1.0-beta.1",
   "license": "MIT",
   "private": true,
   "devDependencies": {
