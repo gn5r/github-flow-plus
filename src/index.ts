@@ -1,5 +1,5 @@
 function hello(value?: string) {
-  console.log(value ?? "hello");
+  console.log(value || "hello");
 }
 
 hello();
